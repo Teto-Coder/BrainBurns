@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Score1
+comment1.params=
+comment1.target=Score1()
+comment2.params=n
+comment2.target=void\ add(boolean)
+comment3.params=
+comment3.target=int\ getCorrect()
+comment4.params=
+comment4.target=int\ getMiss()
+comment5.params=
+comment5.target=int\ getScore()
+numComments=6

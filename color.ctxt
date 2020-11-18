@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=color
+comment1.params=b
+comment1.target=void\ setVis(boolean)
+comment2.params=who
+comment2.target=void\ next(int)
+comment3.params=p1\ p2
+comment3.target=color(score,\ score)
+numComments=4

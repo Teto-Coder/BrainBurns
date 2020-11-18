@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Q
+comment1.params=
+comment1.target=Q()
+comment2.params=
+comment2.target=java.lang.String\ get()
+comment3.params=
+comment3.target=int\ getAns()
+comment4.params=
+comment4.target=void\ row()
+comment5.params=
+comment5.target=java.lang.String\ getS1()
+comment6.params=
+comment6.target=java.lang.String\ getS2()
+numComments=7

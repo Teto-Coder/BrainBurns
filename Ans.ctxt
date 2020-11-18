@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Ans
+comment1.params=
+comment1.target=Ans()
+comment2.params=
+comment2.target=java.lang.String\ getAns()
+comment3.params=score
+comment3.target=java.lang.String\ row(int)
+comment4.params=
+comment4.target=void\ clear()
+numComments=5

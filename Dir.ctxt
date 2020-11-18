@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Dir
+comment1.params=b
+comment1.target=void\ setVis(boolean)
+comment2.params=p1\ p2
+comment2.target=Dir(score,\ score)
+comment3.params=
+comment3.target=void\ RedNext()
+comment4.params=
+comment4.target=void\ BlueNext()
+numComments=5

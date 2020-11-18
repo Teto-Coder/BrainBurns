@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=rule
+comment1.params=path\ g
+comment1.target=rule(java.lang.String,\ int)
+numComments=2
